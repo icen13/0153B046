@@ -13,7 +13,7 @@
 
 📷 **個人照片 Profile Photo**
 
-![個人照片 Profile Photo](image/profile.jpg)
+![Profile Photo](image/profile.jpg)
 
 ## 2. 關於我 About Me
 
