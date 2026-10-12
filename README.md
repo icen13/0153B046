@@ -38,7 +38,7 @@
 
 這是我在課堂中完成的第一個 Python 小作品。我學會如何使用變數、輸入資料，以及將結果顯示在畫面上。
 
-GitHub 連結：[https://github.com/your-account/your-project](https://github.com/your-account/your-project)
+GitHub 連結：[https://github.com/your-account/your-project](https://github.com/icen13/0153B046)
 
 ### Project 2｜（自行填寫）
 
